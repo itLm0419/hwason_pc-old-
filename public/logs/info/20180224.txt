@@ -1,0 +1,1 @@
+[2018-02-24 16:02:56.552] [INFO] logInfo - POST /common/login?params={"userName":"admin","password":"123456"}。data={"result":"00","path":"/createRecord/registInfo"}
